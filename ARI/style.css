@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(196, 235, 255);
+    font-size: 30px;
+
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+}
+
+main {
+    overflow: hidden;
+    padding: 15px;
+}
+
+img {
+    float: left;
+    width: 60%;
+    display: block;
+margin-bottom: 15px;
+}
+
+p {
+    padding: 10px;
+    float: left;
+    width: 40%;
+}
+h2{
+text-align: center;}
