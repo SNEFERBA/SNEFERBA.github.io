@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: aqua;
+    text-align: center;
+    font-size: 1.1em;
+    margin-bottom: 5px;
+    padding-top: 0px;
+}
+
+figure img {
+    width: 390px;
+    padding-top: 5px;
+
+}
+
+body {
+    background-color: black;
+    padding: 5px;
+}
+
+article p {
+    font-size: 1.2em;
+}
+
+main {
+    background-color: rgb(66, 129, 131);
+}
+
+footer {
+    background-color: rgb(204, 10, 49);
+}
+
+section img {
+    width: 390px;
+}
